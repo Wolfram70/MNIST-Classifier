@@ -1,5 +1,5 @@
-# Perceptron-Classifier
-This is a simple perceptron neural network to classify the MNIST handwritten numbers database using a subset of the MNIST training database in jpg format. (5000 images)
+# MNIST-Classifier
+This is a simple neural network to classify the MNIST handwritten numbers database using a subset of the MNIST training database in jpg format. (5000 images)
 
 This neural netowrk uses the softmax activation function for the output neurons and the log-likelihood cost function. It also uses stochastic gradient descent with linear
 reduction in learning rate and L2 regularization.
